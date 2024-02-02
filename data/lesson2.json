@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "word" : {
+            "meaning": "this thing here(near speaker)",
+            "romaji": "kore",
+            "hiragana": "これ"
+        }
+    },
+    {
+        "id": 2,
+        "word" : {
+            "meaning": "that thing there (near listener)",
+            "romaji": "sore",
+            "hiragana": "それ"
+        }
+    },
+    {
+        "id": 3,
+        "word" : {
+            "meaning": "that thing (over there)",
+            "romaji": "are",
+            "hiragana": "あれ"
+        }
+    },
+    {
+        "id": 4,
+        "word" : {
+            "meaning": "this ~ (near speaker)",
+            "romaji": "kono",
+            "hiragana": "この"
+        }
+    },
+    {
+        "id": 5,
+        "word" : {
+            "meaning": "that ~ (near listener)",
+            "romaji": "sono",
+            "hiragana": "その"
+        }
+    },
+    {
+        "id": 6,
+        "word" : {
+            "meaning": "that ~ (over there)",
+            "romaji": "ano",
+            "hiragana": "あの"
+        }
+    },
+    {
+        "id": 7,
+        "word" : {
+            "meaning": "book",
+            "romaji": "hon",
+            "hiragana": "ほん"
+        }
+    },
+    {
+        "id": 8,
+        "word" : {
+            "meaning": "dictionary",
+            "romaji": "jisho",
+            "hiragana": "じしょ"
+        }
+    },
+    {
+        "id": 9,
+        "word" : {
+            "meaning": "magazine",
+            "romaji": "zasshi",
+            "hiragana": "ざっし"
+        }
+    },
+    {
+        "id": 10,
+        "word" : {
+            "meaning": "newspaper",
+            "romaji": "shinbun",
+            "hiragana": "しんぶん"
+        }
+    },
+    {
+        "id": 11,
+        "word" : {
+            "meaning": "notebook",
+            "romaji": "nooto",
+            "hiragana": "ノート"
+        }
+    },
+    {
+        "id": 12,
+        "word" : {
+            "meaning": "personal organizer (handbook)",
+            "romaji": "techoo",
+            "hiragana": "てちょう"
+        }
+    },
+    {
+        "id": 13,
+        "word" : {
+            "meaning": "business card",
+            "romaji": "meishi",
+            "hiragana": "めいし"
+        }
+    },
+    {
+        "id": 14,
+        "word" : {
+            "meaning": "credit card",
+            "romaji": "kaado",
+            "hiragana": "カード"
+        }
+    },
+    {
+        "id": 15,
+        "word" : {
+            "meaning": "pencil",
+            "romaji": "enpitsu",
+            "hiragana": "えんぴつ"
+        }
+    },
+    {
+        "id": 16,
+        "word" : {
+            "meaning": "ballpen",
+            "romaji": "boorupen",
+            "hiragana": "ボールペン"
+        }
+    },
+    {
+        "id": 17,
+        "word" : {
+            "meaning": "mechanical pencil",
+            "romaji": "sharpu penshiru",
+            "hiragana": "シャープペンシル"
+        }
+    },
+    {
+        "id": 18,
+        "word" : {
+            "meaning": "key",
+            "romaji": "kagi",
+            "hiragana": "かぎ"
+        }
+    },
+    {
+        "id": 19,
+        "word" : {
+            "meaning": "watch , clock",
+            "romaji": "tokei",
+            "hiragana": "とけい"
+        }
+    },
+    {
+        "id": 20,
+        "word" : {
+            "meaning": "umbrella",
+            "romaji": "kasa",
+            "hiragana": "かさ"
+        }
+    },
+    {
+        "id": 21,
+        "word" : {
+            "meaning": "bag, briefcase",
+            "romaji": "kaban",
+            "hiragana": "かばん"
+        }
+    },
+    {
+        "id": 22,
+        "word" : {
+            "meaning": "television",
+            "romaji": "terebi",
+            "hiragana": "テレビ"
+        }
+    },
+    {
+        "id": 23,
+        "word" : {
+            "meaning": "radio",
+            "romaji": "rajio",
+            "hiragana": "ラジオ"
+        }
+    },
+    {
+        "id": 24,
+        "word" : {
+            "meaning": "camera",
+            "romaji": "kamera",
+            "hiragana": "カメラ"
+        }
+    },
+    {
+        "id": 25,
+        "word" : {
+            "meaning": "computer",
+            "romaji": "konpyuutaa",
+            "hiragana": "コンピューター"
+        }
+    },
+    {
+        "id": 26,
+        "word" : {
+            "meaning": "car, vehicle",
+            "romaji": "kuruma",
+            "hiragana": "くるま"
+        }
+    },
+    {
+        "id": 27,
+        "word" : {
+            "meaning": "desk",
+            "romaji": "tsukue",
+            "hiragana": "つくえ"
+        }
+    },
+    {
+        "id": 28,
+        "word" : {
+            "meaning": "chair",
+            "romaji": "isu",
+            "hiragana": "いす"
+        }
+    },
+    {
+        "id": 29,
+        "word" : {
+            "meaning": "chocolate",
+            "romaji": "chokoreeto",
+            "hiragana": "チョコレート"
+        }
+    },
+    {
+        "id": 30,
+        "word" : {
+            "meaning": "coffee",
+            "romaji": "koohii",
+            "hiragana": "コーヒー"
+        }
+    },
+    {
+        "id": 31,
+        "word" : {
+            "meaning": "present, souvenir",
+            "romaji": "omiyage",
+            "hiragana": "おみやげ"
+        }
+    },
+    {
+        "id": 32,
+        "word" : {
+            "meaning": "the English language",
+            "romaji": "eigo",
+            "hiragana": "えいご"
+        }
+    },
+    {
+        "id": 33,
+        "word" : {
+            "meaning": "the Japanese language",
+            "romaji": "nihongo",
+            "hiragana": "にほんご"
+        }
+    },
+    {
+        "id": 34,
+        "word" : {
+            "meaning": "~language",
+            "romaji": "~go",
+            "hiragana": "~ご"
+        }
+    },
+    {
+        "id": 35,
+        "word" : {
+            "meaning": "what",
+            "romaji": "nan",
+            "hiragana": "なん"
+        }
+    },
+    {
+        "id": 36,
+        "word" : {
+            "meaning": "so",
+            "romaji": "so",
+            "hiragana": "そ"
+        }
+    }
+]

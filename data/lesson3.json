@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "word": {
+      "meaning": "here, this place",
+      "romaji": "doko",
+      "hiragana": "どこ"
+    }
+  },
+  {
+    "id": 2,
+    "word": {
+      "meaning": "there, that place (near listener)",
+      "romaji": "soko",
+      "hiragana": "そこ"
+    }
+  },
+  {
+    "id": 3,
+    "word": {
+      "meaning": "that place over there",
+      "romaji": "asoko",
+      "hiragana": "あそこ"
+    }
+  },
+  {
+    "id": 4,
+    "word": {
+      "meaning": "here (polite)",
+      "romaji": "kochira",
+      "hiragana": "こちら"
+    }
+  },
+  {
+    "id": 5,
+    "word": {
+      "meaning": "there, that place (polite)",
+      "romaji": "sochira",
+      "hiragana": "そちら"
+    }
+  },
+  {
+    "id": 6,
+    "word": {
+      "meaning": "that place over there (polite)",
+      "romaji": "achira",
+      "hiragana": "あちら"
+    }
+  },
+  {
+    "id": 7,
+    "word": {
+      "meaning": "which way",
+      "romaji": "doko",
+      "hiragana": "どこ"
+    }
+  },
+  {
+    "id": 8,
+    "word": {
+      "meaning": "which way (polite)",
+      "romaji": "dochira",
+      "hiragana": "どちら"
+    }
+  },
+  {
+    "id": 9,
+    "word": {
+      "meaning": "classroom",
+      "romaji": "kyoushitsu",
+      "hiragana": "きょうしつ"
+    }
+  },
+  {
+    "id": 10,
+    "word": {
+      "meaning": "dining room, canteen",
+      "romaji": "shokudou",
+      "hiragana": "しょくどう"
+    }
+  },
+  {
+    "id": 11,
+    "word": {
+      "meaning": "office",
+      "romaji": "jimusho",
+      "hiragana": "じむしょ"
+    }
+  },
+  {
+    "id": 12,
+    "word": {
+      "meaning": "conference/meeting room",
+      "romaji": "kaigishitsu",
+      "hiragana": "かいぎしつ"
+    }
+  },
+  {
+    "id": 13,
+    "word": {
+      "meaning": "reception desk",
+      "romaji": "uketsuke",
+      "hiragana": "うけつけ"
+    }
+  },
+  {
+    "id": 14,
+    "word": {
+      "meaning": "lobby",
+      "romaji": "robi",
+      "hiragana": "ロビー"
+    }
+  },
+  {
+    "id": 15,
+    "word": {
+      "meaning": "room",
+      "romaji": "heya",
+      "hiragana": "へや"
+    }
+  },
+  {
+    "id": 16,
+    "word": {
+      "meaning": "toilet",
+      "romaji": "toire",
+      "hiragana": "トイレ"
+    }
+  },
+  {
+    "id": 17,
+    "word": {
+      "meaning": "staircase",
+      "romaji": "kaidan",
+      "hiragana": "かいだん"
+    }
+  },
+  {
+    "id": 18,
+    "word": {
+      "meaning": "lift, elevator",
+      "romaji": "erebetaa",
+      "hiragana": "エレベーター"
+    }
+  },
+  {
+    "id": 19,
+    "word": {
+      "meaning": "escalator",
+      "romaji": "esukareetaa",
+      "hiragana": "エスカレーター"
+    }
+  },
+  {
+    "id": 20,
+    "word": {
+      "meaning": "vending machine",
+      "romaji": "jidouhanbaiki",
+      "hiragana": "じどうはんばいき"
+    }
+  },
+  {
+    "id": 21,
+    "word": {
+      "meaning": "telephone",
+      "romaji": "denwa",
+      "hiragana": "でんわ"
+    }
+  },
+  {
+    "id": 22,
+    "word": {
+      "meaning": "country",
+      "romaji": "kuni",
+      "hiragana": "くに"
+    }
+  },
+  {
+    "id": 23,
+    "word": {
+      "meaning": "company",
+      "romaji": "kaisha",
+      "hiragana": "かいしゃ"
+    }
+  },
+  {
+    "id": 24,
+    "word": {
+      "meaning": "house, home",
+      "romaji": "uchi",
+      "hiragana": "うち"
+    }
+  },
+  {
+    "id": 25,
+    "word": {
+      "meaning": "tie, necktie",
+      "romaji": "nekutai",
+      "hiragana": "ネクタイ"
+    }
+  },
+  {
+    "id": 26,
+    "word": {
+      "meaning": "wine",
+      "romaji": "wain",
+      "hiragana": "ワイン"
+    }
+  },
+  {
+    "id": 27,
+    "word": {
+      "meaning": "depeartment/ counter",
+      "romaji": "uriba",
+      "hiragana": "うりば"
+    }
+  },
+  {
+    "id": 28,
+    "word": {
+      "meaning": "basement",
+      "romaji": "chika",
+      "hiragana": "ちか"
+    }
+  },
+  {
+    "id": 29,
+    "word": {
+      "meaning": "-th floor",
+      "romaji": "~kai / ~gai",
+      "hiragana": "~かい / ~がい"
+    }
+  },
+  {
+    "id": 30,
+    "word": {
+      "meaning": "what floor",
+      "romaji": "nan-kai",
+      "hiragana": "なんかい"
+    }
+  },
+  {
+    "id": 31,
+    "word": {
+      "meaning": "yen",
+      "romaji": "en",
+      "hiragana": "えん"
+    }
+  },
+  {
+    "id": 32,
+    "word": {
+      "meaning": "how much",
+      "romaji": "ikura",
+      "hiragana": "いくら"
+    }
+  },
+  {
+    "id": 33,
+    "word": {
+      "meaning": "hundred",
+      "romaji": "hyaku",
+      "hiragana": "ひゃく"
+    }
+  },
+  {
+    "id": 34,
+    "word": {
+      "meaning": "thousand",
+      "romaji": "sen",
+      "hiragana": "せん"
+    }
+  },
+  {
+    "id": 35,
+    "word": {
+      "meaning": "ten thousand",
+      "romaji": "man",
+      "hiragana": "まん"
+    }
+  }
+]

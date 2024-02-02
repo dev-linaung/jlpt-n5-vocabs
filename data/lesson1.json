@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "word": {
+      "meaning": "I",
+      "hiragana": "わたし",
+      "romaji": "watashi"
+    }
+  },
+  {
+    "id": 2,
+    "word": {
+      "meaning": "you",
+      "hiragana": "あなた",
+      "romaji": "anata"
+    }
+  },
+  {
+    "id": 3,
+    "word": {
+      "meaning": "that persion,he,she",
+      "romaji": "ano hito / ano kata",
+      "hiragana": "あのひと / あのかた"
+    }
+  },
+  {
+    "id": 4,
+    "word": {
+      "meaning": "Mr / Mrs",
+      "romaji": "~san",
+      "hiragana": "~さん"
+    }
+  },
+  {
+    "id": 5,
+    "word": {
+      "meaning": "Suffix of younger person",
+      "romaji": "~chan",
+      "hiragana": "~ちゃん"
+    }
+  },
+  {
+    "id": 6,
+    "word": {
+      "meaning": "Suffix of nationalities",
+      "romaji": "~jin",
+      "hiragana": "~じん"
+    }
+  },
+  {
+    "id": 7,
+    "word": {
+      "meaning": "teacher, instructor",
+      "romaji": "sensei",
+      "hiragana": "せんせい"
+    }
+  },
+  {
+    "id": 8,
+    "word": {
+      "meaning": "teacher, instructor",
+      "romaji": "kyoushi",
+      "hiragana": "きょうし"
+    }
+  },
+  {
+    "id": 9,
+    "word": {
+      "meaning": "company employee",
+      "romaji": "kai sha in",
+      "hiragana": "かいしゃいん"
+    }
+  },
+  {
+    "id": 10,
+    "word": {
+      "meaning": "bank employee",
+      "romaji": "gin kou in",
+      "hiragana": "ぎんこういん"
+    }
+  },
+  {
+    "id": 11,
+    "word": {
+      "meaning": "doctor",
+      "romaji": "i sha",
+      "hiragana": "いしゃ"
+    }
+  },
+  {
+    "id": 12,
+    "word": {
+      "meaning": "researcher, scholar",
+      "romaji": "ken kyou sha",
+      "hiragana": "けんきょうしゃ"
+    }
+  },
+  {
+    "id": 13,
+    "word": {
+      "meaning": "university",
+      "romaji": "daigaku",
+      "hiragana": "だいがく"
+    }
+  },
+  {
+    "id": 14,
+    "word": {
+      "meaning": "hospital",
+      "romaji": "byou in",
+      "hiragana": "びょういん"
+    }
+  },
+  {
+    "id": 15,
+    "word": {
+      "meaning": "who",
+      "romaji": "dare / donata",
+      "hiragana": "だれ / どなた"
+    }
+  },
+  {
+    "id": 16,
+    "word": {
+      "meaning": "how old",
+      "romaji": "nan sai / oikutsu",
+      "hiragana": "なんさい / おいくつ"
+    }
+  },
+  {
+    "id": 17,
+    "word": {
+      "meaning": "student",
+      "romaji": "gakusei",
+      "hiragana": "がくせい"
+    }
+  },
+  {
+    "id": 18,
+    "word": {
+      "meaning": "employee of company",
+      "romaji": "sha in",
+      "hiragana": "しゃいん"
+    }
+  },
+  {
+    "id": 19,
+    "word": {
+      "meaning": "age",
+      "romaji": "~sai",
+      "hiragana": "~さい"
+    }
+  },
+  {
+    "id": 20,
+    "word": {
+      "meaning": "yes",
+      "romaji": "hai",
+      "hiragana": "はい"
+    }
+  },
+  {
+    "id": 21,
+    "word": {
+      "meaning": "no",
+      "romaji": "iie",
+      "hiragana": "いいえ"
+    }
+  }
+]

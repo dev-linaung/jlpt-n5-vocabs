@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "word": {
+      "meaning": "getting up, waking up",
+      "romaji": "okimasu",
+      "hiragana": "おきます"
+    }
+  },
+  {
+    "id": 2,
+    "word": {
+      "meaning": "sleeping",
+      "romaji": "nemasu",
+      "hiragana": "ねます"
+    }
+  },
+  {
+    "id": 3,
+    "word": {
+      "meaning": "working",
+      "romaji": "hatarakimasu",
+      "hiragana": "はたらきます"
+    }
+  },
+  {
+    "id": 4,
+    "word": {
+      "meaning": "resting, taking a break/holiday",
+      "romaji": "yasumimasu",
+      "hiragana": "やすみます"
+    }
+  },
+  {
+    "id": 5,
+    "word": {
+      "meaning": "studying",
+      "romaji": "benkyou shimasu",
+      "hiragana": "べんきょうします"
+    }
+  },
+  {
+    "id": 6,
+    "word": {
+      "meaning": "finishing",
+      "romaji": "owarimasu",
+      "hiragana": "おわります"
+    }
+  },
+  {
+    "id": 7,
+    "word": {
+      "meaning": "department store",
+      "romaji": "depaato",
+      "hiragana": "デパート"
+    }
+  },
+  {
+    "id": 8,
+    "word": {
+      "meaning": "bank",
+      "romaji": "ginkou",
+      "hiragana": "ぎんこう"
+    }
+  },
+  {
+    "id": 9,
+    "word": {
+      "meaning": "post office",
+      "romaji": "yuubinkyoku",
+      "hiragana": "ゆうびんきょく"
+    }
+  },
+  {
+    "id": 10,
+    "word": {
+      "meaning": "library",
+      "romaji": "toshokan",
+      "hiragana": "としょかん"
+    }
+  },
+  {
+    "id": 11,
+    "word": {
+      "meaning": "art gallary/museum",
+      "romaji": "bijusukan",
+      "hiragana": "びじゅつかん"
+    }
+  },
+  {
+    "id": 12,
+    "word": {
+      "meaning": "now",
+      "romaji": "ima",
+      "hiragana": "いま"
+    }
+  },
+  {
+    "id": 13,
+    "word": {
+      "meaning": "number",
+      "romaji": "bangou",
+      "hiragana": "ばんごう"
+    }
+  },
+  {
+    "id": 14,
+    "word": {
+      "meaning": "~o clock",
+      "romaji": "~ji",
+      "hiragana": "~じ"
+    }
+  },
+  {
+    "id": 15,
+    "word": {
+      "meaning": "~minute",
+      "romaji": "~fun / ~pun",
+      "hiragana": "~ふん / ~ぷん"
+    }
+  },
+  {
+    "id": 16,
+    "word": {
+      "meaning": "half",
+      "romaji": "han",
+      "hiragana": "はん"
+    }
+  },
+  {
+    "id": 17,
+    "word": {
+      "meaning": "what time",
+      "romaji": "nan ji",
+      "hiragana": "なんじ"
+    }
+  },
+  {
+    "id": 18,
+    "word": {
+      "meaning": "what minute",
+      "romaji": "nan pun",
+      "hiragana": "なんぷん"
+    }
+  },
+  {
+    "id": 19,
+    "word": {
+      "meaning": "am / morning",
+      "romaji": "go zen",
+      "hiragana": "ごぜん"
+    }
+  },
+  {
+    "id": 20,
+    "word": {
+      "meaning": "pm / afternoon",
+      "romaji": "go go",
+      "hiragana": "ごご"
+    }
+  },
+  {
+    "id": 21,
+    "word": {
+      "meaning": "morning",
+      "romaji": "asa",
+      "hiragana": "あさ"
+    }
+  },
+  {
+    "id": 22,
+    "word": {
+      "meaning": "daytime / noon",
+      "romaji": "hiru",
+      "hiragana": "ひる"
+    }
+  },
+  {
+    "id": 23,
+    "word": {
+      "meaning": "night",
+      "romaji": "yoru / ban",
+      "hiragana": "よる / ばん"
+    }
+  },
+  {
+    "id": 24,
+    "word": {
+      "meaning": "day before yesterday",
+      "romaji": "ototoi",
+      "hiragana": "おととい"
+    }
+  },
+  {
+    "id": 25,
+    "word": {
+      "meaning": "yesterday",
+      "romaji": "kinou",
+      "hiragana": "きのう"
+    }
+  },
+  {
+    "id": 26,
+    "word": {
+      "meaning": "today",
+      "romaji": "kyou",
+      "hiragana": "きょう"
+    }
+  },
+  {
+    "id": 27,
+    "word": {
+      "meaning": "tomorrow",
+      "romaji": "ashita",
+      "hiragana": "あした"
+    }
+  },
+  {
+    "id": 28,
+    "word": {
+      "meaning": "day after tomorrow",
+      "romaji": "asatte",
+      "hiragana": "あさって"
+    }
+  },
+  {
+    "id": 29,
+    "word": {
+      "meaning": "this evening, tonight",
+      "romaji": "kon ban",
+      "hiragana": "こんばん"
+    }
+  },
+  {
+    "id": 30,
+    "word": {
+      "meaning": "rest, a holiday, day off",
+      "romaji": "yasumi",
+      "hiragana": "やすみ"
+    }
+  },
+  {
+    "id": 31,
+    "word": {
+      "meaning": "lunchtime",
+      "romaji": "",
+      "hiragana": ""
+    }
+  },
+  {
+    "id": 32,
+    "word": {
+      "meaning": "exam, test",
+      "romaji": "jiken",
+      "hiragana": "じけん"
+    }
+  },
+  {
+    "id": 33,
+    "word": {
+      "meaning": "meeting, conference",
+      "romaji": "kaigi",
+      "hiragana": "かいぎ"
+    }
+  },
+  {
+    "id": 34,
+    "word": {
+      "meaning": "movie",
+      "romaji": "eiga",
+      "hiragana": "えいが"
+    }
+  },
+  {
+    "id": 35,
+    "word": {
+      "meaning": "every morning",
+      "romaji": "mai asa",
+      "hiragana": "まいあさ"
+    }
+  },
+  {
+    "id": 36,
+    "word": {
+      "meaning": "every night",
+      "romaji": "mai ban",
+      "hiragana": "まいばん"
+    }
+  },
+  {
+    "id": 37,
+    "word": {
+      "meaning": "every day",
+      "romaji": "mai nichi",
+      "hiragana": "まいにち"
+    }
+  },
+  {
+    "id": 38,
+    "word": {
+      "meaning": "Monday",
+      "romaji": "getsu youbi",
+      "hiragana": "げつようび"
+    }
+  },
+  {
+    "id": 39,
+    "word": {
+      "meaning": "Tuesday",
+      "romaji": "ka youbi",
+      "hiragana": "かようび"
+    }
+  },
+  {
+    "id": 40,
+    "word": {
+      "meaning": "Wednesday",
+      "romaji": "sui youbi",
+      "hiragana": "すいようび"
+    }
+  },
+  {
+    "id": 41,
+    "word": {
+      "meaning": "Thursday",
+      "romaji": "moku youbi",
+      "hiragana": "もくようび"
+    }
+  },
+  {
+    "id": 42,
+    "word": {
+      "meaning": "Friday",
+      "romaji": "kin youbi",
+      "hiragana": "きんようび"
+    }
+  },
+  {
+    "id": 43,
+    "word": {
+      "meaning": "Saturday",
+      "romaji": "dou youbi",
+      "hiragana": "どうようび"
+    }
+  },
+  {
+    "id": 44,
+    "word": {
+      "meaning": "Sunday",
+      "romaji": "nichi youbi",
+      "hiragana": "にちようび"
+    }
+  },
+  {
+    "id": 45,
+    "word": {
+      "meaning": "what day?",
+      "romaji": "nan youbi",
+      "hiragana": "なんようび"
+    }
+  },
+  {
+    "id": 46,
+    "word": {
+      "meaning": "from ~",
+      "romaji": "~kara",
+      "hiragana": "~から"
+    }
+  },
+  {
+    "id": 47,
+    "word": {
+      "meaning": "~to / until",
+      "romaji": "~made",
+      "hiragana": "~まで"
+    }
+  },
+  {
+    "id": 48,
+    "word": {
+      "meaning": "~ and ~ (connect nouns)",
+      "romaji": "~ to ~",
+      "hiragana": "~と~"
+    }
+  }
+]
